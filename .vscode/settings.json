@@ -1,0 +1,16 @@
+{
+  "css.validate": false,
+  "css.lint.unknownAtRules": "ignore",
+  "tailwindCSS.includeLanguages": {
+    "html": "html",
+    "javascript": "javascript",
+    "css": "css"
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "python.defaultInterpreterPath": "C:\\Users\\Rejin\\OneDrive\\Desktop\\Django\\virtualworld\\Scripts\\python.exe",
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingImports": "none"
+  }
+}
