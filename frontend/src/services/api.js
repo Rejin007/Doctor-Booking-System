@@ -73,7 +73,7 @@ export const doctorsAPI = {
     const params = specialization
       ? `?specialization=${encodeURIComponent(specialization)}`
       : '';
-    return apiCall(`/doctors${params}`);
+    return apiCall(`/doctors/${params}`);
   },
 
   getById: (id) => {
